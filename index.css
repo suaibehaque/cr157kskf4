@@ -1,0 +1,206 @@
+*{padding: 0px;margin: 0px;}
+body{background-image:url(background.jpg);background-repeat:no-repeat;    background-attachment: fixed;}
+header.head {
+    background: white;
+}
+
+section#contact{
+    background: white;
+}
+
+section#students {
+    /* background: #5f5f5fa6; */
+}
+
+.h_t{color:red;text-align:center;font-size: 35px;border-bottom: #c50000 solid 4px;padding: 20px 0px 20px 0px;margin-bottom:0px;}
+.navStyle{border-bottom: #c50000 solid 4px;text-align:center;}
+.marginAuto{margin:auto;}
+img.profileLogo {
+    width: 20px;
+    margin: 0px 6px 0px 0px;
+}
+.give_me_height{height:650px;}
+.background_img{background-image (url:buet.jpg)}
+.backgrond_img {
+    background: #fff0b894;
+}
+h3.sectionTitle {
+    text-align: center;
+    color: red;
+    font-size: 35px;
+    border-top: #c50000 solid 4px;
+    border-bottom: #c50000 solid 4px;
+	background:white;
+}
+.tWidth {
+    width: 410px;
+    margin: auto;
+    overflow: hidden;
+    padding: 15px;
+    border: #dcdcdc solid 3px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: #f7f7f7;
+    border-radius: 10px;
+    height: 146px;
+    overflow: overlay;
+}
+
+img.tImg {
+    width: 100px;
+    /* float: left; */
+    /* margin-left: 10px; */
+    border-radius: 100%;
+    height: 100px;
+}
+
+.tElement {
+    width: 230px;
+    float: right;
+    font-size: 15px;
+    font-family: arial;
+    margin-bottom: 0px;
+}
+.studentsDettails {
+    border: #dcdcdc solid 3px;
+    background: #f7f7f7;
+    border-radius: 10px;
+    padding: 50px 45px 5px 45px;
+    /* text-align: center; */
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    height: 260px;
+    overflow: overlay;
+}
+#students img{width: 80px;border-radius: 100%;height: 80px;}
+.stu_img_style {
+    width: 86px;
+    border: #000000 3px solid;
+    border-radius: 100%;
+    background: white;
+    position: absolute;
+    left: 40%;
+    top: 7px;
+}
+
+
+.stu_img_style img:hover {
+    transform: scale(0.9);
+	cursor:pointer;
+}
+.studentsDettails pre {
+    width: auto;
+    font-size: 15px;
+    font-family: arial;
+    margin-bottom: 0px;
+    margin-top: 7px;
+}
+.tWidth img {/* margin-top: 2px; */}
+footer {
+    background: #c5c2c2;
+}
+
+h3.f_i {
+    color: red;
+    text-align: center;
+    margin-top: 70px;
+    transform: rotateZ(325deg);
+    font-size: 30px;
+    /* margin-bottom: 150px; */
+}
+
+footer .row {
+   
+}
+
+footer .col-lg-6 a {
+    display: inherit;
+    color: black;
+}
+
+iframe {margin-top: 10px;}
+
+footer .col-lg-6 a {display: inherit;font-size: 18px;font-family: arial;color: black;margin-bottom: 7px;border-bottom: 2px solid gray;color: #845757;padding-left: 10px;}
+
+
+footer .col-lg-6 {
+    margin-top: 30px;
+}
+
+footer a:first-child {
+    margin-top: 10px;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: black;
+	cursor:pointer;
+}
+
+.borderImgTan {
+    /* width: 100px; */
+    float: left;
+    margin-left: 10px;
+    border-radius: 100%;
+    /* height: 100px; */
+    border: #000000 3px solid;
+    border-radius: 100%;
+    /* position: absolute; */
+    background: white;
+    margin-top: 2px;
+    position: absolute;
+}
+
+img.tImg:hover {
+    transform: scale(0.9);
+	cursor:pointer;
+}
+
+.contact_pre {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.givemeshape {
+    border: 3px solid red;
+    background: white;
+    border-radius: 100%;
+    /* padding: 100px; */
+    width: fit-content;
+    height: fit-content;
+    overflow: hidden;
+    height: 194.36px;
+    padding-right: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.givemeshape div {
+    width: fit-content;
+    height: 200px;
+    overflow: hidden;
+}
+div#name_dev {
+    width: 100%;
+    background: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 8px;
+}
+td.tab {
+    padding-left: 20px;
+}
+div#th_title {text-align: center;padding-bottom: 5px;}
+table {
+    width: 100%;
+}
+span.adrDesign {font-size: 25px;border-bottom: 4px double gray;padding: 0px 10px 0px 10px;}
+.s_nav {
+    width: 450px;
+    margin-top: 0px;
+    margin-bottom: 60px;
+}
